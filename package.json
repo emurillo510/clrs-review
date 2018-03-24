@@ -1,0 +1,22 @@
+{
+  "name": "clrs-review",
+  "version": "1.0.0",
+  "description": "This is a repo of solved algorithms from the cormen CLRS book.",
+  "main": "insertion_sort.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emurillo510/clrs-review.git"
+  },
+  "author": "Elton Murillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emurillo510/clrs-review/issues"
+  },
+  "homepage": "https://github.com/emurillo510/clrs-review#readme",
+  "dependencies": {
+    "mocha": "^3.1.2"
+  }
+}
